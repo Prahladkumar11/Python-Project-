@@ -40,5 +40,5 @@ elif choice ==4:
     s=div(c,d)
     print('The div of the no {} and {} is {}'.format(c,d,s))
 
-else choice ==5:
+else :
     print('----Thanks you-------')
