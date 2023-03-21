@@ -1,4 +1,4 @@
-# Python-Project-
+# GUI-BASED-CALLCULATOR
 All Python program
 
 It's is GUI based Calculator created using Python Library Tkinter
